@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Mickahell/AndroidStudioProjects/TheErasmusPlacetoBe/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/Mickahell/AndroidStudioProjects/TheErasmusPlacetoBe/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Mickahell/AndroidStudioProjects/TheErasmusPlacetoBe/Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/Mickahell/AndroidStudioProjects/TheErasmusPlacetoBe/Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
